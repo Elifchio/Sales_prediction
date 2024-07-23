@@ -1,0 +1,15 @@
+# Data
+data/raw/
+
+# Results
+results/
+
+# Logs
+logs/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
