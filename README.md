@@ -1,5 +1,5 @@
-# Predicting Sales Data for Rossmann Stores
-## Overview This project is a machine learning project for sales and customer count prediction of Rossmann stores.
+ Predicting Sales Data for Rossmann Stores
+This is a machine learning project for sales and customer count prediction of Rossmann stores.
 
 # How to run?
 ### STEPS:
@@ -7,7 +7,7 @@
 Clone the repository
 
 ```bash
-https://github.com/Elifchio/rossmann
+https://github.com/Elifchio/Sales_prediction
 
 ### STEP 01- Create a conda environment after opening the repository
 
