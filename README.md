@@ -1,8 +1,8 @@
  Predicting Sales Data for Rossmann Stores
 This is a machine learning project for sales and customer count prediction of Rossmann stores.
 
-# How to run?
-### STEPS:
+How to run?
+STEPS:
 
 Clone the repository
 
@@ -20,7 +20,7 @@ conda activate cnncls
 ```
 
 
-### STEP 02- install the requirements
+STEP 02- install the requirements
 ```bash
 pip install -r requirements.txt
 ```
